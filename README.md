@@ -1,2 +1,2 @@
 # SankeyDiagram_SkillSets
-Plotly Sankey Diagram to show how my skill sets.
+Plotly Sankey Diagram to demonstrate skill sets.
